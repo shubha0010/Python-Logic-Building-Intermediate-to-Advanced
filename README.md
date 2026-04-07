@@ -603,10 +603,5 @@ No additional installations are required — all solutions use Python's standard
 
 ---
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 <p align="center">Made with ❤️ for Python learners | Happy Coding! 🐍</p>
+---
